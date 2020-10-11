@@ -1,3 +1,6 @@
+same https://marketplace.magento.com/prince-module-faq.html
+
+
 # Magento 2 FAQ Extension Free
 This is an awesome module, Admin can create unlimited, update, delete FAQs and FAQ categories free. The interface is easy to use. This extension is the best FAQ extension for your bussiness.
 
